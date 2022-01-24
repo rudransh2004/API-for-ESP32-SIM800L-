@@ -4,4 +4,6 @@ Flask-Session
 python-socketio==4.6.0
 python-engineio==3.13.2
 email-client
+gunicorn
+eventlet==0.30.2
 
